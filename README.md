@@ -15,7 +15,7 @@ dependencias son:
 	- babel-cli (desarrollo)
 	- babel-preset-es2015 (producción)
 
-Una vez instaladas estas dependencias, se debe crear un archivo '.babelrc' con la inclusión de los presets para indicarle a babel (también se pueden poner plugins, etc.)
+Una vez instaladas estas dependencias, se debe -eliminar el archivo 'npm-debug.log' y crear un archivo '.babelrc' con la inclusión de los presets para indicarle a babel (también se pueden poner plugins, etc.)
 
 Para ejecutar correctamente en producción se necesita instalar require-hook porque el babel-cli y presets funcionan pero no es recomendado. así que se instala require-hook. Y lo que hace es hacer un require de bindiarse o adjuntarse a todos los require que tengamos en los programas y se va a ejecutar solo una vez, a diferencia de babel-node, este no consume tanta memoria.
 
