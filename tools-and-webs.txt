@@ -1,0 +1,51 @@
+
+	HERRAMIENTAS Y SITIOS WEB CON APIS PARA EL AREA DE PRODUCCIÓN
+
+
+  Tutorial mongodb
+    http://charlascylon.com/2013-07-03-tutorial-mongodb-operaciones-de-consulta
+
+  Font Awesome (libre)
+    Api que me ofrece íconos para mi web, diseñados y de uso libre.
+    http://fontawesome.io/
+
+  HTML 2 Jade (libre)
+    Me permite cambiar el código de un estilo a otro:
+    html --> jade
+    Usa por ejemplo con pug.
+    http://html2jade.org/
+
+  Moment.js (libre)
+    Me realiza operaciones con datos de fechas y formatea para dar al cliente textos legibles
+    http://momentjs.com/
+
+  Superagent Y axios (libre)
+    APIs para hacer requests. se caracteriza por su forma de escritura, es otra opción similar a JQuery.
+    Superagent --> https://github.com/visionmedia/superagent/branches
+    Axios --> https://github.com/mzabriskie/axios
+
+  Letsencrypt (libre)
+    Certificado para que mi web tenga un https
+    https://letsencrypt.org/
+
+  JSON web tokens (libre)
+    https://jwt.io/
+
+  Luke Hass projects (libre)
+    Proyectos de diseños con css, como loaders.
+    https://lukehaas.me/projects/
+
+  Live Reload (libre)
+    http://livereload.com/
+
+  Auth0 (libre)
+    Me ofrece interfaces de signin por medio de redes sociales. Para el lado cliente.
+    https://auth0.com/
+
+  RegExr
+    API que construye o me ayuda a construir una expresión en js para determinados parámetros de texto.
+    http://regexr.com/
+  Digital Ocean
+    Servidores similares a AWS.
+    https://www.digitalocean.com/
+ 
